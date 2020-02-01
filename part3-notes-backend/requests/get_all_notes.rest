@@ -1,0 +1,13 @@
+
+get http://localhost:3001/api/notes
+
+###
+
+post http://localhost:3001/api/notes
+Content-Type: : application/json
+Authorization:bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ
+
+{
+  "content": "Single Page Apps use token authentication",
+  "important": true
+}

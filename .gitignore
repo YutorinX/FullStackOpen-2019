@@ -1,0 +1,25 @@
+# exercise
+exercise/unicafe-redux/node_modules
+
+# part 2
+part2_notes/node_modules
+part2_notes/build
+part2_notes/coverage
+part2_notes/yarn-error.log*
+
+# part 3
+part3-notes-backend/node_modules
+part3-notes-backend/.env
+
+# part 6
+part6_redux/node_modules
+part6_redux/yarn-error.log
+
+# part 7
+part7_webpack/node_modules
+part7_webpack/yarn-error.log
+
+# part 8
+part8_graphql-phonebook-backend/node_modules
+
+part8_graphql-phonebook-frontend/node_modules
